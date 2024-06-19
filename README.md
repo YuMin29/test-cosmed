@@ -1,6 +1,6 @@
 # test-cosmed
 This project automates the shopping process on the Cosmed website using Python, Selenium, pytest, and Chrome (version 126.0.6478.62).
-1. Go to the official website of the store.
+1. Go to the [Cosmed website](https://shop.cosmed.com.tw/).
 2. Search for the product.
 3. Click on the first product.
 4. On the product page, click on "Add to Cart".
