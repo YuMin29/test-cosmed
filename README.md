@@ -34,6 +34,10 @@ cd test-cosmed
 python3.x -m pytest .\test_shopping_process.py -v
 ```
 
+# Result
+![image](https://github.com/YuMin29/test-cosmed/assets/31217649/ef476777-0165-4c37-a638-84ad25ef93cd)
+
+
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
